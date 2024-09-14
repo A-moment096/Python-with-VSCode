@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}简介}{1}{section.1}%
+\contentsline {section}{\numberline {2}Python 解释器的下载}{2}{section.2}%
+\contentsline {section}{\numberline {3}VSCode 的安装与配置}{3}{section.3}%
+\contentsline {section}{\numberline {4}Python脚本试运行}{4}{section.4}%
+\contentsline {section}{\numberline {5}Python Debug, Pip, Jupyter Notebook}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}调试 (Debug)}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Pip}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Jupyter Notebook}{6}{subsection.5.3}%
+\contentsline {section}{\numberline {6}后记}{7}{section.6}%
